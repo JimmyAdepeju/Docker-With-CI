@@ -3,12 +3,12 @@ This is a quick  node.js appfor the purposes of demonstrating a basic CI/CD work
 This Project Is Included In the Exercise Files  
 and @  
 **GitHub:**   
-https://github.com/bTreePress/Docker-With-Continous-Integration
+https://github.com/adepeju/Docker-With-CI
 
 ## Instructions  
 
 download or pull to your local computer
-https://github.com/bTreePress/Docker-With-Continous-Integration.git
+https://github.com/adepeju/Docker-With-CI
 
 In the root of the project folder run 
 ```javascript
@@ -19,6 +19,5 @@ To Start the site run
 node . 
 ```
 To View The Site go to:  
-**http://localhost:8080**
+**http://localhost:port**
 
-Note for the final Chapter I make a chnage to the home.hbs view to show the code going through the entire process. I put that code in a seperate file called home-cat.hbs.
